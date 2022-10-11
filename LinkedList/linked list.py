@@ -41,3 +41,12 @@ ll.add(50)
 ll.add(60)
 ll.display()
 print("None")
+
+
+
+'''
+OUTPUT
+
+30->40->50->60->None
+
+'''
